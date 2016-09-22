@@ -1,2 +1,3 @@
-First phase. Notes about the lesson
-Third phase. Checking differences.
+First stage. Notes about the lesson
+Third stage A. Checking differences. Forgot about this commit.
+More changes.
