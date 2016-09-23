@@ -1,3 +1,4 @@
 First stage. Notes about the lesson
 Third stage A. Checking differences. Forgot about this commit.
-More changes.
+More changes. Less changes
+view changes
